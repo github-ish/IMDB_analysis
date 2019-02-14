@@ -1,2 +1,3 @@
-# IMDB_analysis
-Analysing movie data given on IMDB and predicting IMDB rating
+# IMDB-Data-Analysis
+
+Python code for IMDB Data-Analysis using Web Scrapping.
